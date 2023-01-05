@@ -1,0 +1,32 @@
+#singleCard {
+    margin: 50px 0;
+    text-align: justify;
+    max-width: 590px;
+    width: 100%;
+}
+
+#singleCard img {
+    width: 100%;
+    height: 415px;
+}
+
+#singleCard h3 {
+    margin: 20px 0;
+    color: #D05270;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#singleCard p {
+    margin: 20px 0;
+    color: #424242;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#singleCard a {
+    text-transform: uppercase;
+    color: #D05270;
+    font-size: 18px;
+    font-weight: 500;
+}

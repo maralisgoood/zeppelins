@@ -2,7 +2,7 @@ export const data = [
     {
         title: "User Interface (UI) Design",
         image:
-            "https://syspree.com/wp-content/uploads/2022/09/What-is-an-interface-for-users.webp",
+            "https://images.unsplash.com/photo-1547082299-de196ea013d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80",
         description:
             "Design Taxi has got you covered on the latest product design inventions on UX/UI and more. If you want some packaging design inspiration, check out the packaging design section which is flooded with fresh ideas. You might want to visit the Redesign section to learn how big brands redesign their brands and find out about the impact of the redesigning. ",
         category: "UI",
@@ -10,14 +10,14 @@ export const data = [
     {
         title: "What is UI/UX Sprint Design experience",
         image:
-            "https://www.techtic.com/wp-content/uploads/2019/10/design-sprint-process-for-product-design-development.png",
-        description: "",
+            "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFjYm9vayUyMHByb3xlbnwwfHwwfHw%3D&w=1000&q=80",
+        description: "These methods can help align a team on the right problem to solve or provide actionable solutions to a tightly scoped challenge that can be tested with users at a later date. The important thing is that you pick the methods that work best for your specific goal and plan the number of days for your Sprint accordingly.",
         category: "UX",
     },
     {
         title: "What is UI/UX Sprint Design experience",
         image:
-            "https://www.techtic.com/wp-content/uploads/2019/10/design-sprint-process-for-product-design-development.png",
+            "https://images.unsplash.com/photo-1580522154071-c6ca47a859ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bWFjYm9vayUyMHByb3xlbnwwfHwwfHw%3D&w=1000&q=80",
         description:
             "While it is recommended to include all six phases of the methodology, there are certainly situations where you might want to run a shorter workshop utilizing these methods. These methods can help align a team on the right problem to solve or provide actionable solutions to a tightly scoped challenge that can be tested with users at a later date. The important thing is that you pick the methods that work best for your specific goal and plan the number of days for your Sprint accordingly. Learn, explore, create and find out what works best for the types of problems you typically seek to solve In addition to the Design Sprint methodologies, there are a variety of other techniques you may consider, and they are always evolving. Perhaps youll contribute a Design Sprint method of your own!",
         category: "PD",
@@ -25,7 +25,7 @@ export const data = [
     {
         title: "What Is UX Design and Why Does It Matter?",
         image:
-            "https://www.resolutesoftware.com/assets/imgs/posts/what-is-ux-design.jpg",
+            "https://images.unsplash.com/photo-1491472253230-a044054ca35f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXBwbGUlMjBtYWNib29rfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
         description:
             "UX design is the process of creating products that provide a seamless user experience, are easy to use, and are pleasant to interact with. It's about making sure your customers will find value in what you're providing. UX design also includes branding, interaction design, usability testing, and different functionalities In fact, UX design is important for all types of companies and across various industries. User experience design, or UX, in a nutshell, means that the design of an application, webpage, or another digital product is created with ease of use in mind. A bad user experience is often the reason why online buyers would not use a website. Also, the reason for online companies to fail is bad usability in more than two-thirds of cases. UX design is definitely not something that brands should overlook. ",
         category: "UX",
@@ -33,7 +33,7 @@ export const data = [
 
     {
         title: "What is Product Design? Salaries, Skills, and More",
-        image: "http://shorturl.at/CQR78",
+        image: "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=808",
         description:
             "A product designer is somebody who oversees the design process of a product from start to finish or the improvement of an existing product. A product designer might brainstorm solutions to current pain points, take input from stakeholders, act as a liaison between designers, engineers, and researchers, and help compose mock-ups through wireframes and prototypes. They have an understanding of the bigger goals of the product while being mindful of the details needed to achieve them.",
         category: "PD",
@@ -42,7 +42,7 @@ export const data = [
     {
         title: "What does a product designer (UX/UI) do?",
         image:
-            "https://www.uxdesigninstitute.com/blog/wp-content/uploads/2022/08/176_What_does_a_product_designer_do__image_blog.png",
+            "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&w=1000&q=80",
         description:
             "What is a product designer A product designer oversees the design of a product from inception to completion, with an eye toward both user needs and business goals. This means product designers may do everything from perform user research and competitor analyses at the beginning of the project development process, create site maps, wireframes, prototypes and UI style guides during the design process They will also perform front-end coding and oversee the development team at the end of the process. Product designers also continue to be in charge of the product after it launches, running tests to ensure users are happy and developing solutions when there are issues",
         category: "PD",

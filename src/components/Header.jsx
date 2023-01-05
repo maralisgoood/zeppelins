@@ -7,7 +7,7 @@ export default function Header() {
         <header className="container">
             <div id="logo">
                 <Logo />
-                <button className="arrowBtn"><span><Linkedin /></span> Hire Me</button>
+                <button className="arrowBtn"><Linkedin/>Hire Me</button>
             </div>
             <nav>
                 <ul>
