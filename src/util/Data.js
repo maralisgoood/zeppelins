@@ -32,7 +32,7 @@ export const data = [
     },
 
     {
-        title: "What is Product Design? Salaries, Skills, and More",
+        title: "What is Product Design?",
         image: "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&w=1000&q=808",
         description:
             "A product designer is somebody who oversees the design process of a product from start to finish or the improvement of an existing product. A product designer might brainstorm solutions to current pain points, take input from stakeholders, act as a liaison between designers, engineers, and researchers, and help compose mock-ups through wireframes and prototypes. They have an understanding of the bigger goals of the product while being mindful of the details needed to achieve them.",
