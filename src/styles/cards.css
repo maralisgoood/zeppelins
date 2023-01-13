@@ -37,3 +37,22 @@
     font-size: 18px;
     font-weight: 500;
 }
+
+ul {
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    display: flex;
+    align-items: flex-start;
+}
+
+.category ul li {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.category ul li.active {
+    font-size: 24px;
+    color: #D05270;
+    text-decoration: underline;
+}
